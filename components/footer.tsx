@@ -6,7 +6,7 @@ const Footer = () => {
       <Container>
         <div className="py-16">
           <h5 className="flex justify-center">
-            Created with ❤️ by Pablo
+            Written with ❤️ by Peter
           </h5>
         </div>
       </Container>
